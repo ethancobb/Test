@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Sup Bitches!
 
 How are things?
+=======
+Sup Bitches!
+>>>>>>> parent of 76f10b0... Revert "Revert "Added text""
